@@ -1,16 +1,10 @@
-# my_match_live_score_app_flutter
+# MyMatchApp
 
-A new Flutter project.
+A new Flutter project that help you to see Live Score of football Game.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://raw.githubusercontent.com/saymanrifat/my_match_live_score_app_flutter/main/Screenshot_1692960809.png" width="200" height="400" />
+<img src="https://raw.githubusercontent.com/saymanrifat/my_match_live_score_app_flutter/main/Screenshot_1692960814.png" width="200" height="400" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
