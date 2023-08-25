@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216942438087",
+    "project_id": "live-score-app-31a78",
+    "storage_bucket": "live-score-app-31a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216942438087:android:f9c921c21cd2e6872d80e2",
+        "android_client_info": {
+          "package_name": "com.saymanrifat.my_match_live_score_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216942438087-4pe4dhv3ocpcl5seganhd43n8pgl489t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGbJQN_RbcZMk-9J2WK-07Vz1uUFatU_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216942438087-4pe4dhv3ocpcl5seganhd43n8pgl489t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
